@@ -43,9 +43,7 @@ To run the script, simply execute it in a Python environment after setting up th
 - Comments and markdowns within the script provide further guidance on each section.
 
 ## Authors
-- Abdulkadir Bala Richard.
-- Chijioke Onyeka Ahanwa.
-- David Osawese Okundigie.
+
 
 ## License
 
